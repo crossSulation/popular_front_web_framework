@@ -173,3 +173,10 @@ ABBAB CBDDB DDD
 
 reference 
 https://www.cnblogs.com/humin/p/4944972.html
+
+setTimeout and setInterval
+
+Synax: 语法
+var timeoutID = scope.setTimeout(function[, delay, param1, param2, ...]);
+var timeoutID = scope.setTimeout(function[, delay]);
+var timeoutID = scope.setTimeout(code[, delay]);
